@@ -25,7 +25,7 @@ if st.button("Predict Price"):
         
         # 3. Call SageMaker
         response = client.invoke_endpoint(
-            EndpointName="New-EndPoint",
+            EndpointName="MyNewEnd",
             ContentType='application/json',
             Body=json.dumps(payload)
         )
