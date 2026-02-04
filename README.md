@@ -1,7 +1,3 @@
-Zaroor! Ek achhi README.md file aapke project ko professional banati hai aur doosron ko samajhne mein madad karti hai ki aapka project kya kaam karta hai.
-
-Aap GitHub par "Add a README" button par click karke niche diya gaya content paste kar sakte hain:
-
 🏠 House Price Prediction Project
 Yeh project ek machine learning model hai jo ghar ki specifications (jaise area, location, age) ke basis par prices predict karta hai. Is project ko AWS EC2 par deploy kiya gaya hai aur yeh Docker ke saath containerized hai.
 
