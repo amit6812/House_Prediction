@@ -5,7 +5,7 @@ import boto3
 
 # Page Config
 st.set_page_config(page_title="🏠House Prediction")
-st.title("🏠 Smart House Price Predictor")
+st.title("🏠 Smart Home Price Predictor")
 
 # --- Input Fields
 st.subheader("Enter House Details")
